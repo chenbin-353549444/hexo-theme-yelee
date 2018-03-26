@@ -31,7 +31,7 @@ favicon: /favicon.png
 root_url: 
 
 # Year of Site Creation | 网站成立年份
-since: 2016
+since: 2018
 
 # Social info. Bar | 社交信息展示
 ## Keep "mailto:" in Email | 设置 Email 时保留 "mailto:"
@@ -40,16 +40,16 @@ since: 2016
 ## https://github.com/hexojs/hexo-generator-feed
 
 subnav:
-  Email: "mailto:123@123.com"
+  Email: "353549444@qq.com"
   #新浪微博: "sina weibo"
-  GitHub: "#"
+  GitHub: "https://github.com/chenbin-353549444"
   #V2EX: "#"
   RSS: "/atom.xml"
   #知乎: "zhihu"
   #豆瓣: "douban"
   #简书: "jianshu"
   #SegmentFault: ""
-  #博客园: "cnblogs"
+  博客园: "http://www.cnblogs.com/bchen"
   #CSDN: ""
   #Coding: ""
   #网易云音乐: "netease"
@@ -58,12 +58,12 @@ subnav:
   #AcFun: ""
   #niconico: ""
   #Quora: ""
-  #Facebook: "#"
-  #Google: "#"
-  #Twitter: "#"
+  Facebook: "#"
+  Google: "#"
+  Twitter: "#"
   #LinkedIn: "#"
-  #QQ: "#"
-  #微信: "Wechat"
+  QQ: "https://user.qzone.qq.com/353549444/"
+  微信: "Wechat"
   #PayPal: "#"
   #StackOverflow: "#"
   #CodePen: ""
@@ -166,7 +166,7 @@ animate: true
 
 # Load jQuery UI to style tooltips
 # 工具提示框样式美化
-jquery_ui: false
+jquery_ui: true
 
 # Max width of right cloumn | 限制右侧内容的宽带 
 limit_article_width: 
@@ -184,10 +184,11 @@ friends:
   Hexo: https://hexo.io
   GitHub: https://pages.github.com/
   MOxFIVE: http://moxfive.xyz/
+  星辰大海: https://www.wx133.com/
 #friends: false
 
 #是否开启“关于我”。
-aboutme: 专注于前端
+aboutme: 专注于后端
 #aboutme: false
 
 # Open link in a new tab | 是否在新窗口打开链接
