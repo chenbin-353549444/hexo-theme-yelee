@@ -127,9 +127,9 @@ base_font_size: 16  #px, 16 - 24
 color_scheme: 
 
 highlight_style:
-  #on: true
-  inline_code: 1  # Value: 0 - 9 可选
-  code_block: 1  # Value: 0 - 4 
+  on: true
+  inline_code: 6  # Value: 0 - 9 可选
+  code_block: 1  # Value: 0 - 4
   # Set inline_code to style highlight text
   # Chose a highlight theme for code block
   # 通过 inline_code 切换内置文本高亮样式
@@ -185,6 +185,12 @@ friends:
   GitHub: https://pages.github.com/
   MOxFIVE: http://moxfive.xyz/
   星辰大海: https://www.wx133.com/
+  yelee: http://moxfive.coding.me/yelee/
+  Docker: https://hub.docker.com/
+  Jenkins: https://jenkins.io/
+  Spring boot: https://projects.spring.io/spring-boot/
+  Spring Data JPA: https://docs.spring.io/spring-data/jpa/docs/current/reference/html/
+  StackEdit: https://stackedit.io/editor
 #friends: false
 
 #是否开启“关于我”。
