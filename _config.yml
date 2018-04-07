@@ -40,11 +40,11 @@ since: 2018
 ## https://github.com/hexojs/hexo-generator-feed
 
 subnav:
-  Email: "353549444@qq.com"
+  Email: "mailto:353549444@qq.com"
   #新浪微博: "sina weibo"
   GitHub: "https://github.com/chenbin-353549444"
   #V2EX: "#"
-  RSS: "/atom.xml"
+#  RSS: "/atom.xml"
   #知乎: "zhihu"
   #豆瓣: "douban"
   #简书: "jianshu"
@@ -58,9 +58,9 @@ subnav:
   #AcFun: ""
   #niconico: ""
   #Quora: ""
-  Facebook: "#"
-  Google: "#"
-  Twitter: "#"
+#  Facebook: "#"
+#  Google: "#"
+#  Twitter: "#"
   #LinkedIn: "#"
   QQ: "https://user.qzone.qq.com/353549444/"
   微信: "Wechat"
