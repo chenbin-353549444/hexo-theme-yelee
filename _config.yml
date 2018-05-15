@@ -128,7 +128,7 @@ color_scheme:
 
 highlight_style:
   on: true
-  inline_code: 6  # Value: 0 - 9 可选
+  inline_code: 4  # Value: 0 - 9 可选
   code_block: 1  # Value: 0 - 4
   # Set inline_code to style highlight text
   # Chose a highlight theme for code block
