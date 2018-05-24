@@ -294,15 +294,15 @@ progressBar:
   color: blue
 
 CDN:
-  jquery: //lib.baomitu.com/libs/jquery/2.2.4/jquery.min.js
-  require: //lib.baomitu.com/libs/require.js/2.2.0/require.min.js
-  fontawesome: //lib.baomitu.com/libs/font-awesome/4.6.3/css/font-awesome.min.css
-  fancybox_js: //lib.baomitu.com/libs/fancybox/2.1.5/jquery.fancybox.min.js
-  fancybox_css: //lib.baomitu.com/libs/fancybox/2.1.5/jquery.fancybox.min.css
-  animate_css: //lib.baomitu.com/libs/animate.css/3.5.1/animate.min.css
-  jquery_ui_js: //lib.baomitu.com/libs/jqueryui/1.10.4/jquery-ui.min.js
-  jquery_ui_css: //lib.baomitu.com/libs/jqueryui/1.10.4/css/jquery-ui.min.css
-  pace_js: //lib.baomitu.com/libs/pace/1.0.2/pace.min.js
-  clipboard: //lib.baomitu.com/libs/clipboard.js/1.5.10/clipboard.min.js
-  mathjax: //lib.baomitu.com/libs/mathjax/2.6.1/MathJax.js
-  scrollreveal: //lib.baomitu.com/libs/scrollReveal.js/3.1.4/scrollreveal.min.js
+  jquery: //libs.cdnjs.net/jquery/2.2.4/jquery.min.js
+  require: //libs.cdnjs.net/require.js/2.2.0/require.min.js
+  fontawesome: //libs.cdnjs.net/font-awesome/4.6.3/css/font-awesome.min.css
+  fancybox_js: //libs.cdnjs.net/fancybox/2.1.5/jquery.fancybox.min.js
+  fancybox_css: //libs.cdnjs.net/fancybox/2.1.5/jquery.fancybox.min.css
+  animate_css: //libs.cdnjs.net/animate.css/3.5.1/animate.min.css
+  jquery_ui_js: //libs.cdnjs.net/jqueryui/1.10.4/jquery-ui.min.js
+  jquery_ui_css: //libs.cdnjs.net/jqueryui/1.10.4/css/jquery-ui.min.css
+  pace_js: //libs.cdnjs.net/pace/1.0.2/pace.min.js
+  clipboard: //libs.cdnjs.net/clipboard.js/1.5.10/clipboard.min.js
+  mathjax: //libs.cdnjs.net/mathjax/2.6.1/MathJax.js
+  scrollreveal: //libs.cdnjs.net/scrollReveal.js/3.1.4/scrollreveal.min.js
