@@ -52,6 +52,9 @@
     </div>
     <% } %>
   </div>
+  <% if (theme.changyan.on) { %>
+    <%- partial('comments/changyan') %>
+  <% } %>
   <% if (!index){ %>
     <%- partial('post/nav') %>
   <% } %>
