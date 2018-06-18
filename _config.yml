@@ -111,7 +111,7 @@ youyan:
   # 友言服务在 Web 环境下运行，普通本地环境无法查看，请部署后在线上测试。
 
 changyan:
-  on: false
+  on: true
 
 # >>> Style Customisation 样式自定义 <<<
 
