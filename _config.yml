@@ -183,17 +183,10 @@ tagcloud: true
 
 # Blogroll, Link exchange | 友情链接
 friends:
-  Hexo: https://hexo.io
-  GitHub: https://pages.github.com/
   MOxFIVE: http://moxfive.xyz/
   星辰大海: https://www.wx133.com/
   TY's Blog: https://www.ty0924.cn/
   yelee: http://moxfive.coding.me/yelee/
-  Docker: https://www.docker.com/
-  Jenkins: https://jenkins.io/
-  Spring boot: https://projects.spring.io/spring-boot/
-  Spring Data JPA: https://docs.spring.io/spring-data/jpa/docs/current/reference/html/
-  StackEdit: https://stackedit.io/editor
 #friends: false
 
 #是否开启“关于我”。
@@ -208,6 +201,7 @@ open_in_new:
   title: false # article title in homepage 主页文章标题
   post: false # link within post/page 正文中的链接
   tags: false # 标签
+  my_site: true # 收藏夹
   categories: false # 分类
   article_nav: false # 导航
   archives: true # 归档
