@@ -147,7 +147,7 @@ blockquote_style:
 heading_style: 0 # Value: 0 - 2
 
 ## List style type (ul) | 无序列表项标记样式
-list_style: 1  # value: 0 - 12 可选
+list_style: 0  # value: 0 - 12 可选
 
 # 左边栏宽度 px
 left_col_width: 300
