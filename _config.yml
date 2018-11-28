@@ -294,7 +294,7 @@ progressBar:
 CDN:
   jquery: //cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js
   require: //cdnjs.cloudflare.com/ajax/libs/require.js/2.2.0/require.min.js
-  fontawesome: //cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css
+  fontawesome: //cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css
   fancybox_js: //cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.js
   fancybox_css: //cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.css
   animate_css: //cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.1/animate.min.css
