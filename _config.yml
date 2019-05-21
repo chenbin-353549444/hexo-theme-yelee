@@ -113,6 +113,9 @@ youyan:
 changyan:
   on: false
 
+gitalk:
+  on: true
+
 # >>> Style Customisation 样式自定义 <<<
 
 # Background | 背景
