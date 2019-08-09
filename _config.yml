@@ -114,7 +114,7 @@ changyan:
   on: false
 
 gitalk:
-  on: true
+  on: false
 
 # >>> Style Customisation 样式自定义 <<<
 
