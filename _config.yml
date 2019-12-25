@@ -187,10 +187,11 @@ tagcloud: true
 # Blogroll, Link exchange | 友情链接
 friends:
   MOxFIVE: http://moxfive.xyz/
-  星辰大海: https://www.wx133.com/
+#  星辰大海: https://www.wx133.com/
   TY's Blog: https://www.tywuxi.cn
   Mr.kaorou: https://mrkaorou.github.io/
-  WLY: https://www.ttianquan.com/
+  Allen.D: https://blog.dengxiaobo.top
+  #  WLY: https://www.ttianquan.com/
   yelee: http://moxfive.coding.me/yelee/
 #friends: false
 
