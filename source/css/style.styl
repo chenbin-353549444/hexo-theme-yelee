@@ -21,7 +21,7 @@ input, button
 
 html
   font-size base-font-size
-  cursor: url('/img/cursor_1.ico'),auto
+  cursor: url(root-url + '/img/cursor_1.ico'),auto
 
 body
   font-family: font-sans, font-chs, sans-serif;
@@ -61,10 +61,10 @@ a {
   outline-width:0;
   color:#258fb8;
   outline: none;
-  cursor: url('/img/cursor.ico'),auto
+  cursor: url(root-url + '/img/cursor.ico'),auto
 }
 .switch-btn div {
-  cursor: url('/img/cursor.ico'),auto
+  cursor: url(root-url + '/img/cursor.ico'),auto
 }
 
 .alignleft {
@@ -99,32 +99,6 @@ a {
   .inner {
     width:100%
   }
-}
-#back-to-top {
-  cursor: url('/img/cursor.ico'),auto
-  position: fixed;
-  right: 50px;
-  top: -900px;
-  z-index: 9;
-  width: 70px;
-  height: 900px;
-  background: url(/img/scroll.png);
-  transition: all 0.5s ease-in-out;
-}
-
-#back-to-top #rocket {
-  margin: 8px;
-}
-
-#back-to-top #rocket path {
-  transition: .5s;
-  -o-transition: .5s;
-  -moz-transition: .5s;
-  -webkit-transition: .5s;
-}
-
-#back-to-top.red:hover #rocket path {
-  fill: #92C0EF;
 }
 
 @import "_extend"
