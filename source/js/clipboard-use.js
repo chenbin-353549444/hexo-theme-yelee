@@ -15,7 +15,7 @@
             $.gritter.add({
                 title: '消息',
                 text: '复制成功●\'◡\'●',
-                image: '/blog/img/avatar.png',
+                image: '/img/avatar.png',
                 time: 1000,
                 speed:500,
                 sticky: false
